@@ -1,0 +1,9 @@
+Autor: ÍTALO SÉRVIO CARVALHO
+Data: 01/04/2020
+Projeto:
+	Resolução de Problemas Computacionais 
+	FACULDADE COTEMIG
+
+Referências:
+
+BISHT, Ankit. Program for Gauss-Jordan Elimination Method. 1. ed. Geeks for Geeks, 2020. Prerequisite: Gaussian Elimination to Solve Linear Equations. Disponível em: https://auth.geeksforgeeks.org/user/Ankit_Bisht/profile. Acesso em: 1 abr. 2020.

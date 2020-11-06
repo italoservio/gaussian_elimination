@@ -1,0 +1,20 @@
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe.config
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\bin\Debug\GaussMethod.pdb
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.CoreCompileInputs.cache
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\obj\Debug\GaussMethod.exe
+B:\Usuário\Desktop\GaussMethod\GaussMethod\GaussMethod\obj\Debug\GaussMethod.pdb
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe.config
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\bin\Debug\GaussMethod.pdb
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csprojAssemblyReference.cache
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.CoreCompileInputs.cache
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\obj\Debug\GaussMethod.exe
+B:\Usuário\Documents\ITALO\COTEMIG\3º Semestre\Resolução de Problemas Computacionais\Gauss J. Software\GaussMethod vFINAL\GaussMethod\GaussMethod\obj\Debug\GaussMethod.pdb
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe.config
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\bin\Debug\GaussMethod.pdb
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csprojAssemblyReference.cache
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.CoreCompileInputs.cache
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\obj\Debug\GaussMethod.exe
+B:\Usuário\Desktop\GaussMethod Corrigido (19-05-20)\GaussMethod\GaussMethod\obj\Debug\GaussMethod.pdb
