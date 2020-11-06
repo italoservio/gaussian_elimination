@@ -15,7 +15,7 @@
 <h3 align="center">😍 How to use</h3>
 <p align="center">On the first screen press F1 to start:</p>
 <h1 align="center">
-  <img alt="First screen" src="https://i.imgur.com/EHuhj5n" />
+  <img alt="First screen" src="https://i.imgur.com/EHuhj5n.png" />
 </h1>
 
 <br />
@@ -24,7 +24,7 @@
 	Enter the number of unknowns and equations to build the matrix:
 </p>
 <h1 align="center">
-  <img alt="Second screen" src="https://i.imgur.com/StEhKxB" />
+  <img alt="Second screen" src="https://i.imgur.com/StEhKxB.png" />
 </h1>
 
 <br />
@@ -33,7 +33,7 @@
  Now, fill in the matrix with the coefficient of unknowns and their results
 </p>
 <h1 align="center">
-  <img alt="Third screen" src="https://i.imgur.com/BeotK6l" />
+  <img alt="Third screen" src="https://i.imgur.com/BeotK6l.png" />
 </h1>
 
 <br />
@@ -42,7 +42,7 @@
  The calculations will be demonstrated:
 </p>
 <h1 align="center">
-  <img alt="Fourth screen" src="https://i.imgur.com/BkMfTBx" />
+  <img alt="Fourth screen" src="https://i.imgur.com/BkMfTBx.png" />
 </h1>
 
 <br />
@@ -51,14 +51,14 @@
  And the final result:
 </p>
 <h1 align="center">
-  <img alt="Fifth screen" src="https://i.imgur.com/L0l4Yv0" />
+  <img alt="Fifth screen" src="https://i.imgur.com/L0l4Yv0.png" />
 </h1>
 
 <br />
 
 <h3 align="center">🧠 Understanding</h3>
 <h1 align="center">
-  <img alt="Demonstration" src="https://i.imgur.com/dgPicMV" />
+  <img alt="Demonstration" src="https://i.imgur.com/dgPicMV.png" />
 </h1>
 
 <br />
